@@ -1,3 +1,7 @@
+# https://github.com/rgons15/lab11-RG-NN
+# Partner 1: Rishon Gonsalves
+# Partner 2: Rishon Gonsalves (Had to do both parts because Nicolas Niemi had to submit earlier so he did both on his own as discussed with you)
+
 """
 calculator.py
 - Defines functions used to create a simple calculator
